@@ -1,5 +1,17 @@
 # Risky_credit_applicant
 
+
+## Contents of Repo 
+- Final Report: Our Final Written Report with all of our Findings and Results. 
+- Smote Updated: The Notebook showcases our conversion from our standard data to SMOTE. 
+- Model Bias: Showcases how bias our model is with respect to how we classify risky users. 
+- AutoML: The Notebook That runs our auto Machine Learning Models and reports the results.  
+- Dataprep: Our Data Prep Notebook!
+- Deep Neural Network Notebook: Our Notebook that runs variations of deep neural networks to see the best classification results!
+- AML Credit Card: Some initial EDA!
+
+
+
 ## Introduction
 With the increasing prevalence of digital transactions, credit cards have become not only a popular payment method but also a representation of users' creditworthiness. Managing credit card approvals is essential for financial institutions to minimize risks associated with unpaid debts. In this project, we present an approach to refine the credit card approval process using advanced machine learning algorithms that prioritize predictive accuracy and model transparency.
 
